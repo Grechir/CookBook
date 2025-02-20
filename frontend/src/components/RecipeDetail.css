@@ -1,0 +1,8 @@
+.recipe-detail-container {
+    font-size: 20px;
+    margin-left: 40px;
+    max-width: 1200px;
+    white-space: pre-line;  /* Сохраняет переносы строк */
+    overflow: hidden;
+
+}
