@@ -7,14 +7,14 @@
 
 2. **Set up the backend:**
    ```
-     cd project
+     cd CookBook/project
      pip install -r requirements.txt
      python manage.py runserver
    ```
    
 3. **Set up the frontend (in a new terminal):**
    ```
-     cd ../frontend
+     cd CookBook/frontend
      npm install
      npm start
    ```
