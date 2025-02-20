@@ -1,9 +1,9 @@
 ## Steps to Run the Project
 
 1. **Clone the repository:**
-   ```bash
+   ```
+   bash:
    git clone https://github.com/Grechir/CookBook.git
-   cd CookBook
 
 2. **Set up the backend:**
    ```
